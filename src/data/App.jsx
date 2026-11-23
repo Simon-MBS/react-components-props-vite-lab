@@ -1,5 +1,8 @@
-import React from "react";
-import blogData from "../data/blog";
+import App from './data/App.jsx';
+import About from './components/About.jsx';
+import Header from './components/Header.jsx';
+import ArticleList from './components/ArticleList.jsx';
+import blogData from "./blog";
 
 console.log(blogData);
 

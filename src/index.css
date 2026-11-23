@@ -57,3 +57,52 @@ article h3 {
   color: var(--link);
   margin-bottom: 0rem;
 }
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+aside {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+aside img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+}
+
+article {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+article h3 {
+  color: #222;
+}
+
+article small {
+  color: gray;
+}
